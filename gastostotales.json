@@ -1,0 +1,80 @@
+[
+    {
+        "fecha": "2026-03-18",
+        "monto": 50000,
+        "categoria": "Otros",
+        "descripcion": "motilada"
+    },
+    {
+        "fecha": "2026-03-18",
+        "monto": 20000,
+        "categoria": "Comida",
+        "descripcion": "Almuerzo"
+    },
+    {
+        "fecha": "2026-03-18",
+        "monto": 40000,
+        "categoria": "Comida",
+        "descripcion": "N/A"
+    },
+    {
+        "fecha": "2026-03-19",
+        "monto": 5000,
+        "categoria": "Entretenimiento",
+        "descripcion": "N/A"
+    },
+    {
+        "fecha": "2026-03-19",
+        "monto": 40000,
+        "categoria": "Transporte",
+        "descripcion": "N/A"
+    },
+    {
+        "fecha": "2026-03-19",
+        "monto": 2000,
+        "categoria": "Otros",
+        "descripcion": "pan de leche"
+    },
+    {
+        "fecha": "2026-03-19",
+        "monto": 40000,
+        "categoria": "Entretenimiento",
+        "descripcion": "N/A"
+    },
+    {
+        "fecha": "2026-03-20",
+        "monto": 40000,
+        "categoria": "Transporte",
+        "descripcion": "N/A"
+    },
+    {
+        "fecha": "2026-03-20",
+        "monto": 3000,
+        "categoria": "Comida",
+        "descripcion": "AGUA"
+    },
+    {
+        "fecha": "2026-03-20",
+        "monto": 40000,
+        "categoria": "Entretenimiento",
+        "descripcion": "N/A"
+    },
+    {
+        "fecha": "2026-03-20",
+        "monto": 2000,
+        "categoria": "Comida",
+        "descripcion": "agua"
+    },
+    {
+        "fecha": "2026-03-21",
+        "monto": 30000,
+        "categoria": "Comida",
+        "descripcion": "N/A"
+    },
+    {
+        "fecha": "2026-03-21",
+        "monto": 30000,
+        "categoria": "Transporte",
+        "descripcion": "uber"
+    }
+]

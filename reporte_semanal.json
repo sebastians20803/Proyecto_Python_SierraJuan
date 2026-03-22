@@ -1,0 +1,68 @@
+{
+    "tipo_reporte": "REPORTE SEMANAL",
+    "fecha_generacion": "2026-03-20 21:26:11",
+    "cantidad_gastos": 9,
+    "total_gastado": 240000,
+    "total_gastado_categoria": {
+        "Comida": 63000,
+        "Transporte": 80000,
+        "Entretenimiento": 45000,
+        "Otros": 52000
+    },
+    "gastos": [
+        {
+            "fecha": "2026-03-18",
+            "monto": 50000,
+            "categoria": "Otros",
+            "descripcion": "motilada"
+        },
+        {
+            "fecha": "2026-03-18",
+            "monto": 20000,
+            "categoria": "Comida",
+            "descripcion": "Almuerzo"
+        },
+        {
+            "fecha": "2026-03-18",
+            "monto": 40000,
+            "categoria": "Comida",
+            "descripcion": "N/A"
+        },
+        {
+            "fecha": "2026-03-19",
+            "monto": 5000,
+            "categoria": "Entretenimiento",
+            "descripcion": "N/A"
+        },
+        {
+            "fecha": "2026-03-19",
+            "monto": 40000,
+            "categoria": "Transporte",
+            "descripcion": "N/A"
+        },
+        {
+            "fecha": "2026-03-19",
+            "monto": 2000,
+            "categoria": "Otros",
+            "descripcion": "pan de leche"
+        },
+        {
+            "fecha": "2026-03-19",
+            "monto": 40000,
+            "categoria": "Entretenimiento",
+            "descripcion": "N/A"
+        },
+        {
+            "fecha": "2026-03-20",
+            "monto": 40000,
+            "categoria": "Transporte",
+            "descripcion": "N/A"
+        },
+        {
+            "fecha": "2026-03-20",
+            "monto": 3000,
+            "categoria": "Comida",
+            "descripcion": "AGUA"
+        }
+    ]
+}
